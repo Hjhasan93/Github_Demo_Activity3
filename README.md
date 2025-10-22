@@ -14,11 +14,13 @@ cd Github_Demo_Activity3
 
 ## Step 2: Make a Change
 
-Create a new file 'about.txt' with a new bransh:
+Create a new file 'about.txt' with a new branch.
 
-git checkout -b yourname_branch \n
-echo "This is your name" > yourname.txt   \n
-Stage and commit the change using the commands we covered in class.\n
+git checkout -b yourname_branch.
+
+echo "This is your name" > yourname.txt.
+
+Stage and commit the change using the commands we covered in class.
 
 ## Step 3: Push Changes
 
