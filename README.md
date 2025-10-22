@@ -2,6 +2,9 @@
 
 # Activity 1
 
+## Step 0: Install Git
+If Git is not already installed on your system, please visit the following link and follow the installation instructions:
+https://github.com/git-guides/install-git
 
 ## Step 1: Clone Repository
 
